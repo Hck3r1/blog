@@ -1,0 +1,7 @@
+[07-Jul-2022 12:52:29 UTC] PHP Notice:  Undefined index: link in /home/wetinde2/public_html/hck3rr/blog/io/dashboard/view_date.php on line 102
+[14-Aug-2022 08:46:02 UTC] PHP Notice:  Undefined index: email in /home/wetinde2/public_html/hck3rr/blog/io/dashboard/session.php on line 4
+[14-Aug-2022 08:46:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wetinde2/public_html/hck3rr/blog/io/dashboard/session.php on line 10
+[14-Aug-2022 08:46:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wetinde2/public_html/hck3rr/blog/io/dashboard/session.php on line 11
+[14-Aug-2022 08:46:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wetinde2/public_html/hck3rr/blog/io/dashboard/session.php on line 12
+[14-Aug-2022 08:46:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wetinde2/public_html/hck3rr/blog/io/dashboard/session.php on line 13
+[14-Aug-2022 08:46:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wetinde2/public_html/hck3rr/blog/io/dashboard/session.php on line 14

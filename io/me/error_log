@@ -1,0 +1,27 @@
+[30-Mar-2022 12:31:25 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tcompact_tsaxdb'@'localhost' (using password: YES) in /home/tcompact/public_html/assignment/register/dbcon.php on line 2
+[30-Mar-2022 12:31:30 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tcompact_tsaxdb'@'localhost' (using password: YES) in /home/tcompact/public_html/assignment/register/dbcon.php on line 2
+[30-Mar-2022 12:46:41 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tcompact_tsaxdb'@'localhost' (using password: YES) in /home/tcompact/public_html/assignment/register/dbcon.php on line 2
+[31-Mar-2022 12:11:54 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:11:56 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:11:59 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:12:01 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:12:06 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:12:15 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:12:19 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:12:30 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:12:47 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:12:49 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:12:52 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:12:53 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:12:55 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:12:57 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:12:58 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:12:58 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:13:00 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/tcompact/public_html/assignment/register/index.php on line 179
+[31-Mar-2022 12:15:53 Europe/London] PHP Notice:  Undefined variable: email in /home/tcompact/public_html/assignment/register/index.php on line 65
+[31-Mar-2022 12:18:39 Europe/London] PHP Notice:  Undefined variable: email in /home/tcompact/public_html/assignment/register/index.php on line 65
+[31-Mar-2022 12:32:30 Europe/London] PHP Notice:  Undefined variable: email in /home/tcompact/public_html/assignment/register/index.php on line 65
+[01-Apr-2022 11:49:08 Europe/London] PHP Notice:  Undefined variable: email in /home/tcompact/public_html/assignment/register/index.php on line 77
+[01-Apr-2022 12:37:04 Europe/London] PHP Notice:  Undefined variable: email in /home/tcompact/public_html/assignment/register/index.php on line 77
+[01-Apr-2022 12:39:46 Europe/London] PHP Notice:  Undefined variable: email in /home/tcompact/public_html/assignment/register/index.php on line 77
+[01-Apr-2022 12:39:46 Europe/London] PHP Notice:  Undefined variable: email in /home/tcompact/public_html/assignment/register/index.php on line 233
